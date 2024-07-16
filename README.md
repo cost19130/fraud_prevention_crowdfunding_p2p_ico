@@ -29,4 +29,4 @@ This workshop was developed, improved and held during the following FinAI COST e
 5. Run the notebook cell-by-cell by pressing shift + enter
 
 ## Acknowledgement
-This work is part of the project COST CA19130 FinAI - Fintech and Artificial Intelligence in Finance - Towards a Transparent Financial Industry, and was supported by multiple VMGs from this COST Action.  
+This work is part of the project COST CA19130 FinAI - Fintech and Artificial Intelligence in Finance - Towards a Transparent Financial Industry, and was supported by VMGs from this COST Action.  
